@@ -1,0 +1,19 @@
+#heading-id{
+    color: blue;
+    text-decoration:dotted;
+    background-color: bisque;
+    font: 2px;
+}
+.heading-class{
+    color: blue;
+    text-decoration:dotted;
+    background-color: bisque;
+    font: 2px;
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: blue;
+    color:white;
+}

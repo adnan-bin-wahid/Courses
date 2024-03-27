@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border : 1px solid black;
+    margin: 5px;
+    text-align: center;
+    text-decoration: double;
+    vertical-align:middle;
+    background-color: blanchedalmond;
+
+}
